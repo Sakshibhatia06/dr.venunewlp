@@ -322,6 +322,10 @@ sub{
     }
     .price{
         padding-left: 0px;
+        font-size:28px;
+    }
+    .flex-con{
+        gap: 0;
     }
     .btn22{
         padding: 15px 50px;
