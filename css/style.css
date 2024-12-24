@@ -349,6 +349,9 @@ sub{
     h2{
         font-size: 1.4rem !important;
     }
+    .testimonial{
+        max-width: 100%;
+    }
     .bonus-section{
         margin: 0;
     }
