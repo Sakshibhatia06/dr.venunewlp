@@ -308,6 +308,9 @@ sub{
 }
 
 @media (max-width: 600px) {
+    .btn22{
+        padding: 15px 50px;
+    }
     .webinar-section {
         padding: 15px;
     }
