@@ -342,6 +342,13 @@ sub{
     .margin{
         margin-top: -70px;
     }
+     .px-5 {
+        padding-right: 3rem !important;
+        padding-left: 3rem !important;
+    }
+    h2{
+        font-size: 1.4rem !important;
+    }
     .bonus-section{
         margin: 0;
     }
